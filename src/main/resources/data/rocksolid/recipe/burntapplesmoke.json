@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "rocksolid:bakedapple"
+    },
+    "result": {
+        "id": "rocksolid:burntapple"
+    },
+    "experience": 0.1,
+    "cookingtime": 200,
+    "group": "burntapple"
+}
